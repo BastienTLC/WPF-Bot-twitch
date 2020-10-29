@@ -1,0 +1,14 @@
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\bin\Debug\BotTwitchInterface.exe.config
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\bin\Debug\BotTwitchInterface.exe
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\bin\Debug\BotTwitchInterface.pdb
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.csprojAssemblyReference.cache
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\MainWindow.g.cs
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\App.g.cs
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface_MarkupCompile.cache
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface_MarkupCompile.lref
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\MainWindow.baml
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.g.resources
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.Properties.Resources.resources
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.csproj.GenerateResource.cache
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.exe
+C:\Users\TALEC\source\repos\BotTwitchInterface\BotTwitchInterface\obj\Debug\BotTwitchInterface.pdb
